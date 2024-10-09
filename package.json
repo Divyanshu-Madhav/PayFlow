@@ -1,6 +1,6 @@
 {
   "name": "invoice-generator",
-  "author":"Rakesh Kumar Singh",
+  "author":"Divyanshu Madhav",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
